@@ -39,7 +39,7 @@ if __name__ == "__main__":
   # definiëren we onze webServer via de geïmporteerde HTTPServer library met de gegeven PORT en de class MyServer voor onze GET request handling
   webServer = HTTPServer(("", PORT), MyServer)
   # als de server gestart en online is, printen we de url en PORT in de console
-  print("Server started https://%spython.kobevervoort1.repl.co:%s" % ("", PORT))
+  print("Server started https://%sredditfetch.tsunami2360.repl.co:%s" % ("", PORT))
 
   # we proberen de webServer online te krijgen
   try:
