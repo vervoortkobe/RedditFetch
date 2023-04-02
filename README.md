@@ -5,4 +5,4 @@ An http web app that fetches data from the Reddit api from the r/memes subreddit
   
 Tested on Chrome
   
-![Naamloos](https://user-images.githubusercontent.com/39643347/176652836-0653de6b-ee14-43ae-991c-940985321318.png)
+![image](https://user-images.githubusercontent.com/39643347/229348730-c6563abe-0cfb-41c0-90bc-dd2724392d8e.png)
